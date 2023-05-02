@@ -1,0 +1,475 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "chefName": "Enrique Olvera",
+            "yearsOfExperience": 20,
+            "numRecipes": 3,
+            "likes": 1500,
+            "chefPicture": "https://example.com/enrique-olvera.jpg",
+            "profileImage": "https://example.com/enrique-olvera-profile.jpg",
+            "shortBio": "Enrique Olvera is a Mexican chef and owner of Pujol, a restaurant in Mexico City. He is known for his modern interpretation of traditional Mexican cuisine.",
+            "recipes": [
+                {
+                    "recipeName": "Mole",
+                    "ingredients": [
+                        "Chiles",
+                        "Onion",
+                        "Garlic",
+                        "Tomatoes",
+                        "Chocolate"
+                    ],
+                    "cookingMethod": "Roast and grind chiles and spices, then cook with onions, garlic, and tomatoes. Add chocolate and simmer until thickened.",
+                    "rating": 4.5
+                },
+                {
+                    "recipeName": "Tacos al Pastor",
+                    "ingredients": [
+                        "Pork",
+                        "Pineapple",
+                        "Onion",
+                        "Cilantro",
+                        "Lime"
+                    ],
+                    "cookingMethod": "Marinate pork in a blend of chiles, spices, and pineapple juice. Cook on a spit and slice thinly. Serve in tortillas with pineapple, onion, cilantro, and lime.",
+                    "rating": 4.8
+                },
+                {
+                    "recipeName": "Chiles Rellenos",
+                    "ingredients": [
+                        "Poblano Peppers",
+                        "Cheese",
+                        "Egg",
+                        "Tomatoes",
+                        "Onion"
+                    ],
+                    "cookingMethod": "Roast and peel poblanos, stuff with cheese, and dip in egg batter. Fry until golden brown. Serve with tomato sauce and sautéed onion.",
+                    "rating": 4.3
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "chefName": "Gabriela Cámara",
+            "yearsOfExperience": 15,
+            "numRecipes": 3,
+            "likes": 2000,
+            "chefPicture": "https://example.com/gabriela-camara.jpg",
+            "profileImage": "https://example.com/gabriela-camara-profile.jpg",
+            "shortBio": "Gabriela Cámara is a Mexican chef and owner of Contramar in Mexico City. She is known for her seafood dishes and emphasis on sustainability.",
+            "recipes": [
+                {
+                    "recipeName": "Ceviche",
+                    "ingredients": [
+                        "Fish",
+                        "Lime",
+                        "Onion",
+                        "Tomato",
+                        "Cilantro",
+                        "Jalapeno",
+                        "Avocado",
+                        "Tortilla chips"
+                    ],
+                    "cookingMethod": "Cut fish into small pieces and marinate in lime juice. Add diced onion, tomato, cilantro, jalapeno, and avocado. Serve with tortilla chips.",
+                    "rating": 4.6
+                },
+                {
+                    "recipeName": "Tostadas de Atún",
+                    "ingredients": [
+                        "Tuna",
+                        "Lime",
+                        "Onion",
+                        "Cilantro",
+                        "Avocado",
+                        "Tostadas"
+                    ],
+                    "cookingMethod": "Cook tuna in lime juice and mix with diced onion, cilantro, and avocado. Serve on top of tostadas.",
+                    "rating": 4.9
+                },
+                {
+                    "recipeName": "Tacos de Camarones",
+                    "ingredients": [
+                        "Shrimp",
+                        "Garlic",
+                        "Butter",
+                        "Cabbage",
+                        "Sour cream",
+                        "Lime",
+                        "Tortillas"
+                    ],
+                    "cookingMethod": "Cook shrimp in garlic and butter. Serve in tortillas with shredded cabbage, sour cream, and lime juice.",
+                    "rating": 4.4
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "chefName": "Pati Jinich",
+            "yearsOfExperience": 22,
+            "numRecipes": 4,
+            "likes": 500,
+            "chefPicture": "https://example.com/pati-jinich.jpg",
+            "profileImage": "https://example.com/pati-jinich-profile.jpg",
+            "shortBio": "Pati Jinich is a Mexican-American chef, author, and television host. She is known for her award-winning PBS show 'Pati's Mexican Table' and her cookbooks that focus on traditional Mexican cuisine.",
+            "recipes": [
+              {
+                "recipeName": "Chiles en Nogada",
+                "ingredients": [
+                  "Poblano Peppers",
+                  "Ground Beef",
+                  "Walnuts",
+                  "Pomegranate Seeds",
+                  "Cream Cheese"
+                ],
+                "cookingMethod": "Roast and peel poblanos, stuff with a mixture of ground beef, nuts, and fruits. Top with creamy walnut sauce and garnish with pomegranate seeds.",
+                "rating": 4.9
+              },
+              {
+                "recipeName": "Tamales",
+                "ingredients": [
+                  "Masa Harina",
+                  "Pork",
+                  "Tomatoes",
+                  "Onion",
+                  "Garlic"
+                ],
+                "cookingMethod": "Soak corn husks, then spread masa on them and add pork and sauce. Wrap and steam until cooked through.",
+                "rating": 4.5
+              },
+              {
+                "recipeName": "Cochinita Pibil",
+                "ingredients": [
+                  "Pork Shoulder",
+                  "Orange Juice",
+                  "Achiote Paste",
+                  "Garlic",
+                  "Onion"
+                ],
+                "cookingMethod": "Marinate pork in a blend of citrus juice, achiote paste, garlic, and spices. Wrap in banana leaves and bake until tender.",
+                "rating": 4.7
+              },
+              {
+                "recipeName": "Sopaipillas",
+                "ingredients": [
+                  "Flour",
+                  "Baking Powder",
+                  "Salt",
+                  "Sugar",
+                  "Honey"
+                ],
+                "cookingMethod": "Mix flour, baking powder, salt, and sugar, then add water to form a dough. Cut into rounds and fry until puffed and golden brown. Drizzle with honey.",
+                "rating": 4.2
+              }
+            ]
+          },
+          
+
+        {
+            "id": 4,
+            "chefName": "Babu Sherpa",
+            "yearsOfExperience": 19,
+            "numRecipes": 3,
+            "likes": 2000,
+            "chefPicture": "https://example.com/babu-sherpa.jpg",
+            "profileImage": "https://example.com/babu-sherpa-profile.jpg",
+            "shortBio": "Babu Sherpa is a Nepalese chef with a passion for traditional Nepali cuisine. He honed his skills working in restaurants in Kathmandu before opening his own restaurant in Pokhara.",
+            "recipes": [
+                {
+                    "recipeName": "Momos",
+                    "ingredients": [
+                        "Flour",
+                        "Ground meat",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Cilantro",
+                        "Soy sauce"
+                    ],
+                    "cookingMethod": "Make a dough with flour and water, then roll into small circles. Mix ground meat, onion, garlic, ginger, cilantro, and soy sauce to make filling. Put filling in dough and steam for 10-12 minutes.",
+                    "rating": 4.7
+                },
+                {
+                    "recipeName": "Daal Bhat",
+                    "ingredients": [
+                        "Lentils",
+                        "Rice",
+                        "Potatoes",
+                        "Tomatoes",
+                        "Onion",
+                        "Garlic"
+                    ],
+                    "cookingMethod": "Cook lentils with onion, garlic, and tomatoes. Boil rice and serve with lentils, boiled potatoes, and a side of pickles.",
+                    "rating": 4.3
+                },
+                {
+                    "recipeName": "Gorkhali Lamb",
+                    "ingredients": [
+                        "Lamb",
+                        "Yogurt",
+                        "Ginger",
+                        "Garlic",
+                        "Tomato",
+                        "Onion"
+                    ],
+                    "cookingMethod": "Marinate lamb in a blend of yogurt, ginger, garlic, and tomato paste. Cook with onions until tender.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "chefName": "Martha Ortiz",
+            "yearsOfExperience": 25,
+            "numRecipes": 3,
+            "likes": 2300,
+            "chefPicture": "https://example.com/martha-ortiz.jpg",
+            "profileImage": "https://example.com/martha-ortiz-profile.jpg",
+            "shortBio": "Martha Ortiz is a renowned Mexican chef known for her inventive and colorful takes on traditional Mexican cuisine. She owns and runs the popular restaurant Dulce Patria in Mexico City.",
+            "recipes": [
+                {
+                    "recipeName": "Chiles en Nogada",
+                    "ingredients": [
+                        "Poblano Peppers",
+                        "Ground Beef",
+                        "Fruits",
+                        "Nuts",
+                        "Spices"
+                    ],
+                    "cookingMethod": "Roast and stuff poblano peppers with a mixture of ground beef, fruits, nuts, and spices. Cover with a creamy walnut sauce and garnish with pomegranate seeds and parsley.",
+                    "rating": 4.7
+                },
+                {
+                    "recipeName": "Cochinita Pibil",
+                    "ingredients": [
+                        "Pork Shoulder",
+                        "Achiote Paste",
+                        "Orange Juice",
+                        "Lime Juice",
+                        "Spices"
+                    ],
+                    "cookingMethod": "Marinate pork shoulder in a blend of achiote paste, orange juice, lime juice, and spices. Wrap in banana leaves and slow-roast until tender. Serve with pickled red onions and tortillas.",
+                    "rating": 4.9
+                },
+                {
+                    "recipeName": "Tamales",
+                    "ingredients": [
+                        "Masa Harina",
+                        "Lard",
+                        "Chicken",
+                        "Tomatillo",
+                        "Serrano Pepper"
+                    ],
+                    "cookingMethod": "Mix masa harina with lard and chicken broth to form a dough. Spread onto corn husks and add a mixture of shredded chicken, tomatillo, and serrano pepper. Wrap and steam until cooked. Serve with salsa and crema.",
+                    "rating": 4.4
+                }
+            ]
+        },
+
+        {
+            "id": 6,
+            "chefName": "Binod Koirala",
+            "yearsOfExperience": 15,
+            "numRecipes": 4,
+            "likes": 1200,
+            "chefPicture": "https://example.com/binod-koirala.jpg",
+            "profileImage": "https://example.com/binod-koirala-profile.jpg",
+            "shortBio": "Binod Koirala is a Nepalese chef who specializes in traditional Nepali cuisine. He has spent years studying and perfecting his craft, and is known for his use of fresh, locally-sourced ingredients.",
+            "recipes": [
+              {
+                "recipeName": "Momos",
+                "ingredients": [
+                  "Flour",
+                  "Ground meat",
+                  "Onion",
+                  "Garlic",
+                  "Ginger",
+                  "Cilantro",
+                  "Soy sauce",
+                  "Vinegar",
+                  "Oil"
+                ],
+                "cookingMethod": "Mix flour with water to make a dough. Roll out dough and cut into circles. Mix ground meat with onion, garlic, ginger, cilantro, soy sauce, vinegar, and oil. Place filling on each circle of dough and fold into a dumpling shape. Steam until cooked through.",
+                "rating": 4.7
+              },
+              {
+                "recipeName": "Dal Bhat",
+                "ingredients": [
+                  "Lentils",
+                  "Rice",
+                  "Tomatoes",
+                  "Onion",
+                  "Garlic",
+                  "Ginger",
+                  "Cumin",
+                  "Coriander",
+                  "Turmeric",
+                  "Garam masala",
+                  "Oil",
+                  "Salt"
+                ],
+                "cookingMethod": "Boil lentils until soft. In a separate pot, cook rice. In a pan, fry tomatoes, onion, garlic, and ginger with cumin, coriander, turmeric, and garam masala. Add cooked lentils to the pan and simmer until thickened. Serve with rice.",
+                "rating": 4.4
+              },
+              {
+                "recipeName": "Sekuwa",
+                "ingredients": [
+                  "Boneless meat",
+                  "Garlic",
+                  "Ginger",
+                  "Soy sauce",
+                  "Vinegar",
+                  "Oil",
+                  "Salt",
+                  "Pepper",
+                  "Cumin",
+                  "Coriander",
+                  "Chili powder"
+                ],
+                "cookingMethod": "Mix boneless meat with garlic, ginger, soy sauce, vinegar, oil, salt, pepper, cumin, coriander, and chili powder. Marinate for several hours. Grill until cooked through.",
+                "rating": 4.6
+              },
+              {
+                "recipeName": "Aloo Tama",
+                "ingredients": [
+                  "Potatoes",
+                  "Bamboo shoots",
+                  "Onion",
+                  "Garlic",
+                  "Ginger",
+                  "Tomatoes",
+                  "Cumin",
+                  "Coriander",
+                  "Turmeric",
+                  "Chili powder",
+                  "Oil",
+                  "Salt"
+                ],
+                "cookingMethod": "Boil potatoes until soft. In a separate pan, fry bamboo shoots, onion, garlic, and ginger with cumin, coriander, turmeric, and chili powder. Add boiled potatoes to the pan and simmer until tender. Serve hot.",
+                "rating": 4.2
+              }
+            ]
+        },
+
+        {
+            "id": 7,
+            "chefName": "Diana Kennedy",
+            "yearsOfExperience": 50,
+            "numRecipes": 4,
+            "likes": 1800,
+            "chefPicture": "https://example.com/diana-kennedy.jpg",
+            "profileImage": "https://example.com/diana-kennedy-profile.jpg",
+            "shortBio": "Diana Kennedy is a British chef and cookbook author who has been living in Mexico for over 60 years. She is an expert on traditional Mexican cuisine and has authored several cookbooks on the subject.",
+            "recipes": [
+                {
+                    "recipeName": "Chiles en Nogada",
+                    "ingredients": [
+                        "Poblano Peppers",
+                        "Ground Beef",
+                        "Dried Fruits",
+                        "Nuts",
+                        "Cheese",
+                        "Milk",
+                        "Walnuts",
+                        "Pomegranate Seeds",
+                        "Cilantro",
+                        "Onion"
+                    ],
+                    "cookingMethod": "Roast, peel, and seed poblano peppers. Stuff with a mixture of ground beef, dried fruits, nuts, and cheese. Blend milk and walnuts to make a sauce. Serve with pomegranate seeds, cilantro, and onion.",
+                    "rating": 4.6
+                },
+                {
+                    "recipeName": "Tamales",
+                    "ingredients": [
+                        "Masa Harina",
+                        "Lard",
+                        "Chicken Stock",
+                        "Dried Corn Husks",
+                        "Pork",
+                        "Tomatoes",
+                        "Onion",
+                        "Garlic",
+                        "Chiles"
+                    ],
+                    "cookingMethod": "Soak corn husks in water. Mix masa harina with lard and chicken stock to make a dough. Shred pork and cook with tomatoes, onion, garlic, and chiles. Spread masa on husks, add pork mixture, and wrap. Steam until cooked.",
+                    "rating": 4.3
+                },
+                {
+                    "recipeName": "Ceviche",
+                    "ingredients": [
+                        "Shrimp",
+                        "Tomatoes",
+                        "Onion",
+                        "Cilantro",
+                        "Lime",
+                        "Avocado",
+                        "Serrano Pepper"
+                    ],
+                    "cookingMethod": "Boil shrimp until cooked. Mix with tomatoes, onion, cilantro, lime juice, and serrano pepper. Serve with sliced avocado.",
+                    "rating": 4.7
+                },
+                {
+                    "recipeName": "Pico de Gallo",
+                    "ingredients": [
+                        "Tomatoes",
+                        "Onion",
+                        "Cilantro",
+                        "Jalapeño",
+                        "Lime Juice"
+                    ],
+                    "cookingMethod": "Chop tomatoes, onion, cilantro, and jalapeño. Mix with lime juice. Serve with tortilla chips.",
+                    "rating": 4.2
+                }
+            ]
+        },
+        
+        {
+            "id": 8,
+            "chefName": "Alex Stupak",
+            "yearsOfExperience": 15,
+            "numRecipes": 3,
+            "likes": 500,
+            "chefPicture": "https://example.com/alex-stupak.jpg",
+            "profileImage": "https://example.com/alex-stupak-profile.jpg",
+            "shortBio": "Alex Stupak is an American chef and owner of Empellón, a group of Mexican-inspired restaurants in New York City. He is known for his innovative approach to Mexican cuisine, combining traditional flavors with modern techniques.",
+            "recipes": [
+              {
+                "recipeName": "Chilaquiles Verdes",
+                "ingredients": [
+                  "Tortilla Chips",
+                  "Tomatillos",
+                  "Jalapeños",
+                  "Garlic",
+                  "Cilantro"
+                ],
+                "cookingMethod": "Blend tomatillos, jalapeños, garlic, and cilantro. Simmer the sauce and add tortilla chips. Top with cheese, sour cream, and sliced onion.",
+                "rating": 4.2
+              },
+              {
+                "recipeName": "Carnitas Tacos",
+                "ingredients": [
+                  "Pork Shoulder",
+                  "Lime",
+                  "Cilantro",
+                  "Onion",
+                  "Tortillas"
+                ],
+                "cookingMethod": "Simmer pork in orange juice and spices until tender. Shred and cook until crispy. Serve in tortillas with lime, cilantro, and onion.",
+                "rating": 4.5
+              },
+              {
+                "recipeName": "Esquites",
+                "ingredients": [
+                  "Corn",
+                  "Mayonnaise",
+                  "Queso Fresco",
+                  "Lime",
+                  "Chili Powder"
+                ],
+                "cookingMethod": "Roast corn and mix with mayonnaise, queso fresco, lime juice, and chili powder. Serve in cups with a spoon.",
+                "rating": 4.0
+              }
+            ]
+          }
+        ]
+    }

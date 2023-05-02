@@ -5,8 +5,7 @@
             "chefName": "Enrique Olvera",
             "yearsOfExperience": 20,
             "numRecipes": 3,
-            "likes": 1500,
-            "chefPicture": "https://example.com/enrique-olvera.jpg",
+            "likes": 1580,
             "profileImage": "https://example.com/enrique-olvera-profile.jpg",
             "shortBio": "Enrique Olvera is a Mexican chef and owner of Pujol, a restaurant in Mexico City. He is known for his modern interpretation of traditional Mexican cuisine.",
             "recipes": [
@@ -53,8 +52,7 @@
             "chefName": "Gabriela Cámara",
             "yearsOfExperience": 15,
             "numRecipes": 3,
-            "likes": 2000,
-            "chefPicture": "https://example.com/gabriela-camara.jpg",
+            "likes": 2109,
             "profileImage": "https://example.com/gabriela-camara-profile.jpg",
             "shortBio": "Gabriela Cámara is a Mexican chef and owner of Contramar in Mexico City. She is known for her seafood dishes and emphasis on sustainability.",
             "recipes": [
@@ -106,10 +104,9 @@
         {
             "id": 3,
             "chefName": "Pati Jinich",
-            "yearsOfExperience": 22,
+            "yearsOfExperience": 12,
             "numRecipes": 4,
-            "likes": 500,
-            "chefPicture": "https://example.com/pati-jinich.jpg",
+            "likes": 730,
             "profileImage": "https://example.com/pati-jinich-profile.jpg",
             "shortBio": "Pati Jinich is a Mexican-American chef, author, and television host. She is known for her award-winning PBS show 'Pati's Mexican Table' and her cookbooks that focus on traditional Mexican cuisine.",
             "recipes": [
@@ -170,8 +167,7 @@
             "chefName": "Babu Sherpa",
             "yearsOfExperience": 19,
             "numRecipes": 3,
-            "likes": 2000,
-            "chefPicture": "https://example.com/babu-sherpa.jpg",
+            "likes": 1883,
             "profileImage": "https://example.com/babu-sherpa-profile.jpg",
             "shortBio": "Babu Sherpa is a Nepalese chef with a passion for traditional Nepali cuisine. He honed his skills working in restaurants in Kathmandu before opening his own restaurant in Pokhara.",
             "recipes": [
@@ -223,7 +219,6 @@
             "yearsOfExperience": 25,
             "numRecipes": 3,
             "likes": 2300,
-            "chefPicture": "https://example.com/martha-ortiz.jpg",
             "profileImage": "https://example.com/martha-ortiz-profile.jpg",
             "shortBio": "Martha Ortiz is a renowned Mexican chef known for her inventive and colorful takes on traditional Mexican cuisine. She owns and runs the popular restaurant Dulce Patria in Mexico City.",
             "recipes": [
@@ -269,10 +264,9 @@
         {
             "id": 6,
             "chefName": "Binod Koirala",
-            "yearsOfExperience": 15,
+            "yearsOfExperience": 16,
             "numRecipes": 4,
-            "likes": 1200,
-            "chefPicture": "https://example.com/binod-koirala.jpg",
+            "likes": 1307,
             "profileImage": "https://example.com/binod-koirala-profile.jpg",
             "shortBio": "Binod Koirala is a Nepalese chef who specializes in traditional Nepali cuisine. He has spent years studying and perfecting his craft, and is known for his use of fresh, locally-sourced ingredients.",
             "recipes": [
@@ -354,10 +348,9 @@
         {
             "id": 7,
             "chefName": "Diana Kennedy",
-            "yearsOfExperience": 50,
+            "yearsOfExperience": 35,
             "numRecipes": 4,
-            "likes": 1800,
-            "chefPicture": "https://example.com/diana-kennedy.jpg",
+            "likes": 1970,
             "profileImage": "https://example.com/diana-kennedy-profile.jpg",
             "shortBio": "Diana Kennedy is a British chef and cookbook author who has been living in Mexico for over 60 years. She is an expert on traditional Mexican cuisine and has authored several cookbooks on the subject.",
             "recipes": [
@@ -428,8 +421,7 @@
             "chefName": "Alex Stupak",
             "yearsOfExperience": 15,
             "numRecipes": 3,
-            "likes": 500,
-            "chefPicture": "https://example.com/alex-stupak.jpg",
+            "likes": 926,
             "profileImage": "https://example.com/alex-stupak-profile.jpg",
             "shortBio": "Alex Stupak is an American chef and owner of Empellón, a group of Mexican-inspired restaurants in New York City. He is known for his innovative approach to Mexican cuisine, combining traditional flavors with modern techniques.",
             "recipes": [

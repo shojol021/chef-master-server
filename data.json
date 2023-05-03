@@ -2,6 +2,7 @@
     "chefs": [
         {
             "id": 1,
+            "featured": false,
             "chefName": "Gabriela Cámara",
             "yearsOfExperience": 11,
             "numRecipes": 3,
@@ -49,6 +50,7 @@
         },
         {
             "id": 2,
+            "featured": true,
             "chefName": "Enrique Olvera",
             "yearsOfExperience": 15,
             "numRecipes": 3,
@@ -103,6 +105,7 @@
 
         {
             "id": 3,
+            "featured": true,
             "chefName": "Rick Bayless",
             "yearsOfExperience": 12,
             "numRecipes": 4,
@@ -164,6 +167,7 @@
 
         {
             "id": 4,
+            "featured": true,
             "chefName": "Babu Sherpa",
             "yearsOfExperience": 19,
             "numRecipes": 3,
@@ -215,6 +219,7 @@
         },
         {
             "id": 5,
+            "featured": false,
             "chefName": "Martha Ortiz",
             "yearsOfExperience": 25,
             "numRecipes": 3,
@@ -263,6 +268,7 @@
 
         {
             "id": 6,
+            "featured": false,
             "chefName": "Binod Koirala",
             "yearsOfExperience": 16,
             "numRecipes": 4,
@@ -347,6 +353,7 @@
 
         {
             "id": 7,
+            "featured": false,
             "chefName": "Diana Kennedy",
             "yearsOfExperience": 31,
             "numRecipes": 4,
@@ -418,6 +425,7 @@
         
         {
             "id": 8,
+            "featured": false,
             "chefName": "Alex Stupak",
             "yearsOfExperience": 15,
             "numRecipes": 3,
